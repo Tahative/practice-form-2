@@ -5,7 +5,7 @@ td {
 
 table{
     background-color: rgb(233, 227, 238);
-    border-collapse: inherit;
+    border-collapse: collapse;
 }
 
 .navi{
@@ -21,4 +21,8 @@ li:hover{
 }
 li{
     padding-right: 10px;
+}
+.total {
+    text-decoration-line: underline;
+    text-decoration-style: double;
 }
