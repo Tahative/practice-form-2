@@ -4,6 +4,7 @@ td {
 }
 
 table{
+  
     background-color: rgb(233, 227, 238);
     border-collapse: collapse;
 }
@@ -22,6 +23,12 @@ li:hover{
 li{
     padding-right: 10px;
 }
+.button{
+    background-color: rgb(118, 196, 183);
+    border-radius: 6px;
+    border: none;
+}
+ 
 .total {
     text-decoration-line: underline;
     text-decoration-style: double;
