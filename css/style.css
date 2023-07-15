@@ -1,0 +1,24 @@
+td {
+    border: 3px solid rgb(200, 184, 212)
+    
+}
+
+table{
+    background-color: rgb(233, 227, 238);
+    border-collapse: inherit;
+}
+
+.navi{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    text-decoration: none;
+
+}
+li:hover{
+    cursor: pointer;
+    background-color: rgb(119, 94, 143);
+}
+li{
+    padding-right: 10px;
+}
